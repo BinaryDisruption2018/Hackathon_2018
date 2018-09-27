@@ -1,6 +1,8 @@
 # Code of Conduct
 
-# TL;DR. /# Be respectful. Harassment and abuse are never tolerated. If you are in a situation that makes you uncomfortable at the Binary Disruption event, if the event itself is creating an unsafe or inappropriate environment, or if interacting with a Binary Disruption representative or event organizer makes you uncomfortable, please report it using the procedures included in this document.
+# TL;DR.  
+
+Be respectful. Harassment and abuse are never tolerated. If you are in a situation that makes you uncomfortable at the Binary Disruption event, if the event itself is creating an unsafe or inappropriate environment, or if interacting with a Binary Disruption representative or event organizer makes you uncomfortable, please report it using the procedures included in this document.
 
 Binary Disruption stands for inclusivity. We believe that every single person has the right to hack in a safe and welcoming environment.
 
