@@ -1,4 +1,4 @@
-# Challenge 1 – Convert the NASA Web World Wind (NWWW) to a virtual reality globe
+# Challenge 1 – Convert the NASA Web WorldWind (NWWW) to a virtual reality globe
 
 * Use the NWWW API and WebVR API to produce a VR version of the globe
 * Use Google Earth VR to present orbiting satellites and the ISS using streamed position data
