@@ -23,7 +23,7 @@ If you feel uncomfortable or think there may be a potential violation of the cod
 By sending information to the general reporting line, your report will go to any or all of the Binary Disruption representatives listed below.
 
 * info@binarydisrupt.com
-David Chambers (256) 542-8774
+* David Chambers (256) 542-8774
 
 Binary Disruption reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact Binary Disruption by e-mail at info@binarydisrupt.com
 This guide was last updated on: September 26, 2018
